@@ -1,5 +1,7 @@
 h1{
   text-align:center;
+  font-style: italic;
+  color:green;
 
 }
 img {
@@ -19,4 +21,14 @@ p{
   padding: 10px;
   border-radius: 8px 8px 8px 8px;
   color:white;
+}
+.about{
+  background-color:grey;
+  padding: 10px;
+  border-radius: 8px 8px 8px 8px;
+  color:white;
+  margin-top: 40px;
+}
+.copy{
+  text-align: center;
 }
