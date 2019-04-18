@@ -21,6 +21,7 @@ p{
   padding: 10px;
   border-radius: 8px 8px 8px 8px;
   color:white;
+  font-family: 'Old Standard TT', serif;
 }
 .about{
   background-color:grey;
@@ -28,6 +29,7 @@ p{
   border-radius: 8px 8px 8px 8px;
   color:white;
   margin-top: 40px;
+  font-family: 'Old Standard TT', serif;
 }
 .copy{
   text-align: center;
